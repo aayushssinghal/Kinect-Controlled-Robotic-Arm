@@ -1,0 +1,8 @@
+Kinect captures the movement and gestures of hand and body using its various sensors.
+Robotic arm is controlled remotely using ZigBee wireless interface. Computer receives hand
+movements from the kinect sensor and translates it to a particular command and sends that
+command to Robotic arm. Robotic arm looks as if, it is imitating the hand movement.
+In order to make the system completely remote control, a camera may be mounted on the
+top of robotic arm. So that user can view the environment of robotic arm from distance.
+Connection to Robotic arm can also be established without using ZigBee wireless device, and
+through a wired connection, because Robotic arm is kept stationary at all times.
